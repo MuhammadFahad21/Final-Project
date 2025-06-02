@@ -7,7 +7,7 @@ WORKFLOW OF PROJECT:
 Cases:
 A- Rock
 Rock - Rock = tie
-Rock - Paper = Peper win
+Rock - Paper = Paper win
 Rock - Scissor = Rock win
 
 B- Paper
